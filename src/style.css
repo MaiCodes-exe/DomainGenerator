@@ -3,9 +3,10 @@
   text-align: center;
   background-color: #d3e4cd;
   font-family: "EB Garamond", serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 #table {
+  width: 80%;
   background-color: #fef5ed;
   margin: auto;
   font-size: 16px;
